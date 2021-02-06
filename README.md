@@ -1,2 +1,2 @@
 # Simple-calculator-made-with-Unity
-Calculator.png
+Calculator.PNG
