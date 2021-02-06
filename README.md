@@ -1,2 +1,2 @@
 # Simple-calculator-made-with-Unity
-Calculator.PNG
+![screenshot](https://github.com/mperham/breakout/blob/master/screenshot.png)
